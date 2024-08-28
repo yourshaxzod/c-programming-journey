@@ -6,4 +6,4 @@ Assalomu Alaykum, bu repositoryda men c dasturlash tilini o'rganish jarayonimni 
 
 1. **Repositoryni Klonlash**:
    ```bash
-   git clone https://github.com/username/c-programming-journey.git
+   git clone https://github.com/yourshaxzod/c-programming-journey.git
