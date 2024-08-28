@@ -1,6 +1,6 @@
 # 🏖️ C Dasturlash Sayohati
 
-Assalomu Alaykum, bu repositoryda men c dasturlash tilini o'rganish jarayonimni bo'lsihaman.
+Assalomu Alaykum, bu repositoryda men C dasturlash tilini o'rganish jarayonimni bo'lishaman.
 
 ## 📖 Foydalanish Qo‘llanmasi
 
